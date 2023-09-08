@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/Main.qss</file>
+        <file>Images/background.bmp</file>
+        <file>Images/Home_Off.png</file>
+        <file>qss/MainTab.qss</file>
+        <file>Images/BCU_Off.png</file>
+        <file>Images/BCU_On.png</file>
+        <file>Images/HW Check_Off.png</file>
+        <file>Images/HW Check_On.png</file>
+        <file>Images/HW ID_Off.png</file>
+        <file>Images/HW ID_On.png</file>
+        <file>Images/ML Check_Off.png</file>
+        <file>Images/ML Check_On.png</file>
+        <file>Images/Home_On.png</file>
+        <file>Images/Right_border.png</file>
+        <file>Images/SOIC.ico</file>
+        <file>qss/Lable.qss</file>
+        <file>qss/QheaderView.qss</file>
+        <file>qss/QTableView.qss</file>
+        <file>qss/QheaderView_hpDiga.qss</file>
+        <file>qss/QheaderView_hwRsult.qss</file>
+        <file>qss/QheaderView_hwYB.qss</file>
+        <file>qss/QheaderView_hwIDS.qss</file>
+    </qresource>
+</RCC>
